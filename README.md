@@ -65,3 +65,7 @@ Fly through the vastness of space in a high-speed endless runner adventure. Navi
 
 ```bash
 pip install pygame
+
+Made by -- 
+Abhidev sharma & Aman verma
+school - DAV public school east of loni road , shahdra delhi 
