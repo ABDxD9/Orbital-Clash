@@ -65,6 +65,10 @@ Fly through the vastness of space in a high-speed endless runner adventure. Navi
 
 ```bash
 pip install pygame
+pip install random
+pip install math
+pip install sys
+pip install os
 
 Made by -- 
 Abhidev sharma & Aman verma
