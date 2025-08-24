@@ -63,6 +63,11 @@ Fly through the vastness of space in a high-speed endless runner adventure. Navi
 1. Install **Python 3.x**.
 2. Install **Pygame**:
 
+---- how to run ----
+
+python orbitclash.py
+
+
 ```bash
 pip install pygame
 pip install random
