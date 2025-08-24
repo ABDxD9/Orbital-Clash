@@ -63,9 +63,10 @@ Fly through the vastness of space in a high-speed endless runner adventure. Navi
 1. Install **Python 3.x**.
 2. Install **Pygame**:
 
----- how to run ----
 
-python orbitclash.py
+Made by -- 
+Abhidev sharma & Aman verma
+school - DAV public school east of loni road , shahdara delhi 
 
 
 ```bash
@@ -75,6 +76,7 @@ pip install math
 pip install sys
 pip install os
 
-Made by -- 
-Abhidev sharma & Aman verma
-school - DAV public school east of loni road , shahdra delhi 
+---- how to run ----
+
+python orbitclash.py
+
